@@ -1,0 +1,38 @@
+
+header {
+    text-align: center;
+    background:  aliceblue;
+    background-size: cover;
+    padding: 20px 0px 0px 0px;
+  }
+  ul {
+    padding: 10px;
+    background: rgba(3, 2, 2, 0.5);
+  }
+  li {
+    display: inline;
+    padding: 0px 10px 0px 10px;
+  }
+.headerLink {
+  color: white;
+}
+h1 {
+    font-size: 60px;
+    font-family: "Lilita One", sans-serif;
+}
+h2 {
+    font-size: 38px;
+    font-family: "Lilita One", sans-serif;
+}
+article {
+  max-width: 500px;
+  padding: 10px;
+  margin: 0 auto;
+}
+#headerImg {
+  padding: 0px;
+  border: 10px solid rgb(199, 199, 199);
+}
+img {
+  padding: 5px 0px 5px 0px;
+}
